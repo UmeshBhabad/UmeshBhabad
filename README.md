@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
 </td>
 <td width="50%">
-  <h4>🧠 <a href="https://github.com/UmeshBhabad/transformer-architectures-from-scratch">Transformer Architectures from Scratch</a></h4>
+  <h4>🧠 <a href="https://github.com/UmeshBhabad/Transformer_Architectures_from_Scratch">Transformer Architectures from Scratch</a></h4>
   <p>Encoder-only, encoder-decoder, and decoder-only Transformers built from first principles — multi-head attention, causal masking, and cross-attention implemented manually.</p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
