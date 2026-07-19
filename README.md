@@ -60,24 +60,32 @@
 <td width="50%">
   <h4>📘 <a href="https://github.com/UmeshBhabad/Intelligent_Document_QA_System_RAG">Intelligent Document QA System (RAG)</a></h4>
   <p>End-to-end Retrieval-Augmented Generation pipeline — FAISS vector search, Sentence-Transformers embeddings, and a locally hosted Llama 3 model, deployed as a Streamlit app.</p>
-  <img src="https://img.shields.io/badge/Python-FAISS-Ollama-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
 </td>
 <td width="50%">
-  <h4>🧠 <a href="https://github.com/UmeshBhabad/Transformer_Architectures_from_Scratch">Transformer Architectures from Scratch</a></h4>
+  <h4>🧠 <a href="https://github.com/UmeshBhabad/transformer-architectures-from-scratch">Transformer Architectures from Scratch</a></h4>
   <p>Encoder-only, encoder-decoder, and decoder-only Transformers built from first principles — multi-head attention, causal masking, and cross-attention implemented manually.</p>
-  <img src="https://img.shields.io/badge/Python-TensorFlow-NLP-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-orange?style=flat-square" />
 </td>
 </tr>
 <tr>
 <td width="50%">
   <h4>🏗️ <a href="https://github.com/UmeshBhabad/Industrial_Surface_Crack_Detection_CNN">Industrial Surface Crack Detection (CNN)</a></h4>
   <p>CNN image classifier with data augmentation and production-style training — 99.85% test accuracy, validated across multiple independent training runs.</p>
-  <img src="https://img.shields.io/badge/Python-TensorFlow-ComputerVision-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-green?style=flat-square" />
 </td>
 <td width="50%">
   <h4>📈 <a href="https://github.com/UmeshBhabad">Stock Price Forecasting (LSTM)</a></h4>
   <p>LSTM time-series model using sliding-window sequencing and chronological train/test splitting, evaluated via MAE, MSE, and RMSE.</p>
-  <img src="https://img.shields.io/badge/Python-TensorFlow-TimeSeries-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Time%20Series-red?style=flat-square" />
 </td>
 </tr>
 </table>
