@@ -81,7 +81,7 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-green?style=flat-square" />
 </td>
 <td width="50%">
-  <h4>📈 <a href="https://github.com/UmeshBhabad">Stock Price Forecasting (LSTM)</a></h4>
+  <h4>📈 <a href="[https://github.com/UmeshBhabad/Reliance_Stock_Price_Forecasting_using_LSTM">Stock Price Forecasting (LSTM)</a></h4>
   <p>LSTM time-series model using sliding-window sequencing and chronological train/test splitting, evaluated via MAE, MSE, and RMSE.</p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
