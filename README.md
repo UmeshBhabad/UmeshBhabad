@@ -108,7 +108,7 @@
 <h3>🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy-tv2i-ltn7tk4j7-umesh13.vercel.app/?username=UmeshBhabad&theme=light" />
+  <img src="https://github-profile-trophy-tv2i.vercel.app/?username=UmeshBhabad&theme=light" />
 </p>
 
 <hr>
