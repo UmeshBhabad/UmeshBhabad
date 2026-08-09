@@ -25,7 +25,7 @@
 <ul>
   <li>🎓 Recent Electronics &amp; Telecommunication graduate (SKNCOE, Pune)</li>
   <li>🔭 Building end-to-end ML/DL systems from first principles — not just calling pretrained APIs</li>
-  <li>📊 Research Consultant (Gold Level) at <b>WorldQuant BRAIN</b> — 11+ quantitative alpha signals designed &amp; submitted</li>
+  <li>📊 Research Consultant (Gold Level) at <b>WorldQuant BRAIN</b> — 30+ quantitative alpha signals designed &amp; submitted</li>
   <li>🌱 Currently deepening my understanding of MLOps and large-scale system design</li>
   <li>💬 Ask me about RAG pipelines, Transformer internals, or CNN/LSTM architectures</li>
   <li>📫 Reach me at <b>umeshbhabad9@gmail.com</b></li>
